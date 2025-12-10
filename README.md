@@ -10,7 +10,9 @@ O script valida o envelope de voo conforme os limites estruturais da aeronave (m
 
 Ideal para fins educacionais, simulações pré-voo, treinamentos ou integração com checklists digitais.
 
-Licença
+
+## Licença
+
 Este projeto está licenciado sob a Licença MIT. Você pode usar, modificar e redistribuir este código livremente, desde que mencione o autor original.
 
-Clique aqui para ver a licença completa.
+[Clique aqui para ver a licença completa.](https://opensource.org/licenses/MIT)
