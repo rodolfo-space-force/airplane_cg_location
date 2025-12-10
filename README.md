@@ -1,4 +1,4 @@
-# airplane_cg_location
+# Cesna-152_cg_location
 
 Manifesto de Peso e Balanceamento - DATUM
 
