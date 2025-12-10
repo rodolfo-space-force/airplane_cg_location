@@ -4,6 +4,8 @@ Manifesto de Peso e Balanceamento - DATUM
 
 C152 Weight and Balance Calculator (Python)
 
+![Texto alternativo da imagem](envelope.png)
+
 Este repositório implementa um sistema de cálculo automatizado de peso e balanceamento para a aeronave Cessna 152, com base em entradas como peso dos ocupantes, bagagens, combustível e localização do centro de gravidade (C.G.). 
 
 O script valida o envelope de voo conforme os limites estruturais da aeronave (máx. 757 kg) e plota a posição do C.G. no gráfico de envelope, conforme ficha técnica oficial.
