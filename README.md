@@ -12,6 +12,14 @@ O script valida o envelope de voo conforme os limites estruturais da aeronave (m
 
 Ideal para fins educacionais, simulações pré-voo, treinamentos ou integração com checklists digitais.
 
+# exemplo 
+# piloto = 85 kg
+# Passageiro = 75 kg
+# Bagagem 1 = 10 kg max
+# Bagagem 2 = 0 kg max
+# Combustível = 26 galoes
+
+
 
 ## Licença
 
