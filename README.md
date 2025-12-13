@@ -2,6 +2,8 @@
 
 Manifesto de Peso e Balanceamento - DATUM
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
+
 C152 Weight and Balance Calculator (Python)
 
 ![Texto alternativo da imagem](envelope.png)
